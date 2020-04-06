@@ -1,0 +1,391 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 14,
+        "name": "Login with demoblaze",
+        "description": "",
+        "id": "demoblaze-application-testing;login-with-demoblaze;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "user launches demoblaze website",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "user click on login button",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "user enter user_3 and user1pass and click on login",
+            "match": {},
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@tag"
+          },
+          {
+            "line": 5,
+            "name": "@TC_0"
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "Add phone to cart",
+        "description": "",
+        "id": "demoblaze-application-testing;add-phone-to-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 20,
+            "name": "user click on phone",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 21,
+            "name": "user click on the desired mobile phone",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 22,
+            "name": "123user click o add to cart",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 23,
+            "name": "123handle window alert",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 24,
+            "name": "123click on cart page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 18,
+            "name": "@TC_0"
+          }
+        ]
+      },
+      {
+        "line": 27,
+        "name": "Add laptop to cart",
+        "description": "",
+        "id": "demoblaze-application-testing;add-laptop-to-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 28,
+            "name": "user click on laptop",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 29,
+            "name": "user click on desired laptop",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 30,
+            "name": "abcuser click on add to cart",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 31,
+            "name": "abchandle window alert",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 32,
+            "name": "abcclick on cart page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 26,
+            "name": "@TC_0"
+          }
+        ]
+      },
+      {
+        "line": 35,
+        "name": "Add Monitor to cart",
+        "description": "",
+        "id": "demoblaze-application-testing;add-monitor-to-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 36,
+            "name": "user click on monitor",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 37,
+            "name": "user click on dersired monitor",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 38,
+            "name": "456user click on add to cart",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 39,
+            "name": "456handle window alert",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 40,
+            "name": "456click on cart page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 34,
+            "name": "@TC_0"
+          }
+        ]
+      },
+      {
+        "line": 43,
+        "name": "Purchase a product",
+        "description": "",
+        "id": "demoblaze-application-testing;purchase-a-product",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 44,
+            "name": "user click on desired product",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 45,
+            "name": "789user click on add to cart",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 46,
+            "name": "handle window alert",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 47,
+            "name": "789click on cart page",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 48,
+            "name": "click on place order",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 49,
+            "name": "fill the details",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 50,
+            "name": "click on purchase",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 51,
+            "name": "click on ok",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 42,
+            "name": "@TC_0"
+          }
+        ]
+      },
+      {
+        "line": 61,
+        "name": "Signup",
+        "description": "",
+        "id": "demoblaze-application-testing;signup;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 55,
+            "name": "user clicks on signup button",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 56,
+            "name": "user enters user_6 and user1pass",
+            "match": {},
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 57,
+            "name": "click on signup",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@tag"
+          },
+          {
+            "line": 53,
+            "name": "@TC_0"
+          }
+        ]
+      }
+    ],
+    "name": "DemoBlaze Application testing",
+    "description": "       Login and buy products",
+    "id": "demoblaze-application-testing",
+    "keyword": "Feature",
+    "uri": "demoBlaze.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@tag"
+      }
+    ]
+  }
+]
